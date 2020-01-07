@@ -1,0 +1,15 @@
+{
+  "name": "kata-with-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "endkarn",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^24.9.0",
+    "standard": "^14.3.1"
+  }
+}
